@@ -1,20 +1,21 @@
 {
-  "name": "kss",
-  "version": "3.0.0-beta.23b",
-  "description": "The Node.js port of KSS: A methodology for documenting CSS and building style guides",
+  "name": "kss-yaml",
+  "version": "3.0.0-beta.23",
+  "description": "This project is a fork of kss-node that adds support for parsing comments in YAML files.",
   "homepage": "http://kss-node.github.io/kss-node",
   "bugs": {
-    "url": "https://github.com/kss-node/kss-node/issues"
+    "url": "https://github.com/scottmccaughey/kss-node-yaml/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/kss-node/kss-node.git"
+    "url": "git@github.com:scottmccaughey/kss-node-yaml.git"
   },
-  "author": "John Albin Wilkins <virtually.johnalbin@gmail.com> (http://john.albin.net/)",
+  "author": "Scott McCaughey <scott@scott.vegas> (https://scott.vegas)",
   "keywords": [
     "styleguide",
     "kss",
-    "kss-node"
+    "kss-node",
+    "yaml"
   ],
   "main": "index.js",
   "directories": {
